@@ -35,7 +35,7 @@ export default function App() {
           }}
           onKeyPress={addTodo}
         />
-        <label>Todo name</label>
+        <label>Task Todo</label>
       </div>
 
       <TodoList todos={todos} />
